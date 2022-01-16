@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Izzul_Tugas</string>
+    <string name="judul">Pedia Culinary</string>
+    <string name="pilihgambar">(Select image to open gallery)</string>
+    <string name="judul_Makanan">Food</string>
+    <string name="judul_Minuman">Drink</string>
+    <string name="bakso">Meatball</string>
+    <string name="des_bakso">Meatballs or meatballs are a type of meat ball commonly found in Indonesian cuisine.</string>
+    <string name="gudeg">Gudeg</string>
+    <string name="des_gudeg">Gudheg) is a special dish from Yogyakarta and Central Java Province made from young jackfruit cooked with coconut milk.</string>
+    <string name="lumpia">Spring Rolls</string>
+    <string name="des_lumpia">Lumpia known by Indonesians is a Hokkien pronunciation.</string>
+    <string name="goreng">Fried rice</string>
+    <string name="des_goreng">Fried rice is a food in the form of fried rice and stirred in cooking oil, margarine, or butter.</string>
+    <string name="liwet">Liwet rice</string>
+    <string name="des_liwet">The activity of cooking Sundanese-style liwet rice and eating together with banana leaf mats in the Sundanese tradition is called Ngaliwet.</string>
+    <string name="tengkelek">Tengkelek</string>
+    <string name="des_tengkelek">Tengkleng is a typical food originating from Central Java (Solo), with the main raw material in the form of goat bones/tetelan cooked in curry, but a little more watery.</string>
+    <string name="wedamguwu">Wedanguwuh</string>
+    <string name="des_wedamguwu">Wedang uwuh is a traditional drink that is often used in traditional medicine.</string>
+    <string name="bajigur">Bajigur</string>
+    <string name="des_bajigur">Bajigur is a traditional drink typical of the Sundanese people from West Java, Indonesia. Its main ingredient is sugar palm, and coconut milk.</string>
+    <string name="bandrek">Bandrek</string>
+    <string name="des_bandrek">Bandrek is a traditional Sundanese drink that is consumed to increase body warmth</string>
+    <string name="birpletol">Birpletol</string>
+    <string name="des_birpletol">Birpletok is a Betawi specialty drink that does not contain alcohol at all, packaged in bottles and made from various spices.</string>
+    <string name="sarabba">Sarabba</string>
+    <string name="des_sarabba">Sarabba is a typical drink of the Bugis Tribe, Makassar, South Sulawesi.</string>
+    <string name="tehtalus">Talus Tea</string>
+    <string name="des_tehtalus">Talua tea is a taboo drink from kuniang talua jo gulo, which is mixed up with a tea drink.</string>
+</resources>

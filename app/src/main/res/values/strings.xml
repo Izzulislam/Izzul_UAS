@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Izzul_Tugas</string>
+    <string name="judul">Kuliner Pedia</string>
+    <string name="pilihgambar">(Pilih gambar untuk membuka galeri)</string>
+
+    <string name="judul_Makanan">Makanan</string>
+    <string name="judul_Minuman">Minuman</string>
+
+    <string name="bakso">Bakso</string>
+    <string name="des_bakso">Bakso atau baso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia.</string>
+
+    <string name="gudeg">Gudeg</string>
+    <string name="des_gudeg">Gudheg) adalah hidangan khas Provinsi Yogyakarta dan Jawa Tengah yang terbuat dari nangka muda yang dimasak dengan santan.</string>
+
+    <string name="lumpia">Lumpia</string>
+    <string name="des_lumpia">Lumpia yang dikenal oleh orang Indonesia merupakan lafal Bahasa Hokkian.</string>
+
+    <string name="goreng">Nasi Goreng</string>
+    <string name="des_goreng">Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng, margarin, atau mentega.</string>
+
+    <string name="liwet">Nasi Liwet</string>
+    <string name="des_liwet">Kegiatan memasak nasi liwet ala Sunda dan makan bersama dengan alas daun pisang dalam tradisi masyarakat Sunda disebut Ngaliwet.</string>
+
+    <string name="tengkelek">Tengkelek</string>
+    <string name="des_tengkelek">Tengkleng adalah makanan khas yang berasal Jawa Tengah (Solo), dengan bahan baku utama berupa tulang/ tetelan kambing yang dimasak gulai, tetapi sedikit lebih encer.</string>
+
+    <string name="wedamguwu">Wedanguwuh</string>
+    <string name="des_wedamguwu">Wedang uwuh adalah salah satu minuman tradisional yang kerap digunakan dalam pengobatan tradisional.</string>
+
+    <string name="bajigur">Bajigur</string>
+    <string name="des_bajigur">Bajigur adalah minuman tradisional khas masyarakat Sunda dari daerah Jawa Barat, Indonesia. Bahan utamanya adalah gula aren dan santan.</string>
+
+    <string name="bandrek">Bandrek</string>
+    <string name="des_bandrek">Bandrek adalah minuman tradisional khas Sunda yang dikonsumsi untuk meningkatkan kehangatan tubuh</string>
+
+    <string name="birpletol">Birpletol</string>
+    <string name="des_birpletol">Birpletok merupakan minuman khas Betawi yang sama sekali tidak mengandung alkhol, dikemas dalam botol dalam botol dan diracik dari berbagai rempah-rempah.</string>
+
+    <string name="sarabba">Sarabba</string>
+    <string name="des_sarabba">Sarabba adalah minuman khas Suku Bugis, Makassar, Sulawesi Selatan.</string>
+
+    <string name="tehtalus">Teh Talus</string>
+    <string name="des_tehtalus">Teh talua adolah minuman nan tabuek dari kuniang talua jo gulo nan alah dikacau kudian diagiah aia teh.</string>
+</resources>
